@@ -59,7 +59,7 @@ public class Foo {
 
 第三步：获取```Fn```的信息的工具类
 
-- [ ] ```
+- ```
   import java.beans.Introspector;
   import java.lang.invoke.SerializedLambda;
   import java.lang.reflect.Method;
