@@ -157,5 +157,8 @@ public interface Fn<T> extends Serializable //序列化接口
 
 在框架设计的时候，很多场景要获取类的属性，Java8以前API设计的时候只能用字符串方式，如果是Java8，就可以避免字符串。
 
-大家可以打开（骗星）栗子 https://github.com/liuyuyu/weekend，直接运行代码感受一下。
+大家可以打开（骗星）栗子，直接运行代码感受一下。
 
+[Mybatis通用Mapper增强](https://github.com/liuyuyu/weekend)
+
+[lambda meta信息获取demo](https://github.com/liuyuyu/java-code-suggest/blob/master/src/main/java/io/github/liuyuyu/lambda/meta/Lambda_Meta.md)
